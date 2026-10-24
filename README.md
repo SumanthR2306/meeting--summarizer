@@ -213,6 +213,3 @@ A sample transcript is included at `tests/sample_transcript.txt` for immediate t
 
 🔗 [Live on AWS EC2](http://44.193.203.168/) ← URL added after deployment
 
----
-
-*Built by Isha Harne · [LinkedIn](https://linkedin.com/in/your-profile) · [GitHub](https://github.com/ishaharne03)*
